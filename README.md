@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer with experienc
 
 Here are some of the projects I’m currently working on:
 
-- [**Project Name**](URL) - A brief description of what this project is about and the technologies used.
+- [**Project Name**](https://angel-javier0707.github.io/NeWProyec/) - A brief description of what this project is about and the technologies used.
 - [**Project Name**](URL) - Another project description.
 - [**Project Name**](URL) - You can continue adding other projects here.
 
